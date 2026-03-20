@@ -81,25 +81,25 @@ Pivot tables were used to:
 
 Sales are evenly distributed across product categories, indicating a well-balanced product portfolio with no heavy reliance on a single category.
 
-![Sales by Product Line](graphics/sales_by_productline.png)
+![Sales by Product Line](images/sales_by_productline.png)
 
 ### ⏰ Sales by Hour
 
 Sales activity peaks during early afternoon hours, suggesting critical operational windows for staffing, inventory availability, and checkout efficiency.
 
-![Sales by Hour](graphics/sales_by_hour.png)
+![Sales by Hour](images/sales_by_hour.png)
 
 ### 🏪 Sales by Branch
 
 Although all branches generate similar total revenue, the underlying drivers differ significantly. Some branches rely on higher transaction volume, while others achieve similar results through higher ticket values.
 
-![Sales by Branch](graphics/sales_by_branch.png)
+![Sales by Branch](images/sales_by_branch.png)
 
 ### 💳 Payment Method Distribution
 
 Payment preferences vary across branches, reflecting differences in customer behavior, local market conditions, and potential demographic factors.
 
-![Payment Method Distribution](graphics/sales_by_payment_method.png)
+![Payment Method Distribution](images/sales_by_payment_method.png)
 
 ### 📈 Key Performance Indicators (KPIs)
 
